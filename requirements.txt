@@ -6,3 +6,4 @@ seaborn
 numpy
 plotly
 torch
+torchvision
